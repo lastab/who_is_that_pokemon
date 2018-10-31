@@ -1,4 +1,4 @@
-#Who is that pokemon?
+#Who is that Pokémon?
 ====================
 **Who is that pokemon?** is a simple quiz like game. This game is inspired from one of the most popular anime **Pokémon**.
 ![Sample](https://github.com/lastab/who_is_that_pokemon/raw/dump/myStartup.png)
